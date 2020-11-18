@@ -1,1 +1,1 @@
-# Lugu-Soren
+# Soren Templates
